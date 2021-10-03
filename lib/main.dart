@@ -21,7 +21,7 @@ class MyHomePage extends StatefulWidget {
   _MyHomePageState createState() => _MyHomePageState();
 }
 
-String btnText = 'button';
+String btnText = 'button ';
 
 class _MyHomePageState extends State<MyHomePage> {
   @override
@@ -30,7 +30,7 @@ class _MyHomePageState extends State<MyHomePage> {
       appBar: AppBar(
         centerTitle: true,
         backgroundColor: Colors.purple,
-        title: Text("Mamlot Biswas"),
+        title: Text(" *** Mamlot ***"),
       ),
       body: RaisedButton(
         child: Text(btnText),
