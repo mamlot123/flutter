@@ -30,7 +30,7 @@ class _MyHomePageState extends State<MyHomePage> {
       appBar: AppBar(
         centerTitle: true,
         backgroundColor: Colors.purple,
-        title: Text(" *** Mamlot ***"),
+        title: Text(" *** Mamlot Biswas ***"),
       ),
       body: RaisedButton(
         child: Text(btnText),
